@@ -1,0 +1,16 @@
+# github.com/extrame/goyymmdd v0.0.0-20210114090516-7cc815f00d1a
+## explicit
+github.com/extrame/goyymmdd
+# github.com/extrame/ole2 v0.0.0-20160812065207-d69429661ad7
+## explicit
+github.com/extrame/ole2
+# github.com/tealeg/xlsx v1.0.5
+## explicit; go 1.12
+github.com/tealeg/xlsx
+# golang.org/x/text v0.4.0
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/transform
